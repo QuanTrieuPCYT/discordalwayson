@@ -14,7 +14,7 @@ Ubuntu/Debian do:
 ```
 sudo apt install python3
 ```
-Other Linux distros go figure them out by yourself.
+<p>Other Linux distros go figure them out by yourself.<p>
 3. Edit main.py
 You can use notepad or any text editor that you like. Replace your Discord token with "YOUR TOKEN", your preferred activity type and its content.
 Activity types available:
