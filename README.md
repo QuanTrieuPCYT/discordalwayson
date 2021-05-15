@@ -1,7 +1,7 @@
 # DiscordAlwaysOn
-Some python files use discord.py to make your account online 24/7!
-Currently running that same stuff on my Raspberry Pi 4 server!
-With custom status support. Easy to install and customize as long as you have basic knowledge about using and working with terminal/Windows cmd.
+<p>Some python files use discord.py to make your account online 24/7!</p>
+<p>Currently running that same stuff on my Raspberry Pi 4 server!</p>
+<p>With custom status support. Easy to install and customize as long as you have basic knowledge about using and working with terminal/Windows cmd.</p>
 ## Installation
 1. Clone this project
 ```bash
