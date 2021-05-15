@@ -16,4 +16,4 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-client.run(os.getenv("TOKEN"), bot=False)
+client.run("TOKEN HERE", bot=False)
