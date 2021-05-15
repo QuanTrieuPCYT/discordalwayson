@@ -8,14 +8,18 @@ git clone https://github.com/QuanTrieuPCYT/discordalwayson
 ```
 2. Install Python (we want python3 🐧)
 Here i only list some ways to install python on some popular OSes. If your OS is not included, go figure it out by yourself.
+
 Windows please head to <a href="https://www.python.org/downloads/windows">python.org</a>.
-macOS also <a href="https://www.python.org/downloads/mac-osx">python.org</a>
+
+macOS also <a href="https://www.python.org/downloads/mac-osx">python.org</a>.
+
 Debian distros please do:
 ```
 sudo apt install python3
 ```
 3. Edit main.py
 You can use notepad or any text editor that you like. Replace your Discord token with "YOUR TOKEN", your preferred activity type and its content.
+
 Activity types available:
 ```
 # Setting `Playing ` status
