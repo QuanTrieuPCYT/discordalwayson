@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-    return "site_content_here"
+    return "your_site_content"
 
 def run():
     app.run(host="0.0.0.0", port=8080)
