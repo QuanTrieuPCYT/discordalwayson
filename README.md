@@ -52,4 +52,4 @@ keep_alive.keep_alive()
 And you can head to keep_alive.py to edit your Replit site's content (edit `your_site_content`)
 
 ## Credit
-<a href="https://github.com/ItzTheLT">@ItzTheLT</a> for the code!
+<a href="https://github.com/TyNguyenTheLT">@TyNguyenTheLT</a> for the code!
